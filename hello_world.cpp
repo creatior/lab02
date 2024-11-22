@@ -1,14 +1,14 @@
 #include <iostream>
 #include <string>
 
-// main block
+// main, block
 int
 main()
 {
-  // user name
+  // user, name
   std::string name;
   std::cin >> name;
-  // hello world
+  // hello, world!
   std::cout << "Hello, world from " << name << std::endl;
   return 0;
 }
