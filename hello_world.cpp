@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-// main, block
+// main, block !!!
 int
 main()
 {
-  // user, name
+  // user, name !
   std::string name;
   std::cin >> name;
   // hello, world!
